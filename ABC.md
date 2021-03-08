@@ -1,0 +1,1 @@
+Testing which extension opens a "code" file in Visual Studio Code
